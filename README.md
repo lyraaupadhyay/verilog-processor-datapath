@@ -6,9 +6,9 @@ The project includes parameterized RTL modules, simulation using Icarus Verilog 
 
 # Completed Modules
 
- -8-bit Parameterized ALU
- -8×8 Register File (2 Read, 1 Write Port)
- -ALU + Register File Integration
+ - 8-bit Parameterized ALU
+ - 8×8 Register File (2 Read, 1 Write Port)
+ - ALU + Register File Integration
 
 
 # Tools Used
@@ -19,6 +19,6 @@ The project includes parameterized RTL modules, simulation using Icarus Verilog 
 - Yosys
 
 ## Repository Structure
--ALU/
--Register_File/
--ALU_RegisterFile/
+- ALU/
+- Register_File/
+- ALU_RegisterFile/
